@@ -1,2 +1,13 @@
-# ML-Techniques-Explained
-Clear and practical explanations of essential machine learning techniques with code examples
+# ML Techniques Explained
+
+A hands-on collection of core machine learning techniques explained simply and visually  - from theory to coed.
+
+
+## Topics coverd
+
+- Sampling Bias and Stratified Sampling
+- More coming soon ...
+
+
+
+
