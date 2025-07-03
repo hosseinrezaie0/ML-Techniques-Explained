@@ -1,6 +1,6 @@
 # ML Techniques Explained
 
-A hands-on collection of core machine learning techniques explained simply and visually  - from theory to coed.
+A hands-on collection of core machine learning techniques explained simply and visually  - from theory to code.
 
 
 ## Topics coverd
